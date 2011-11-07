@@ -1,5 +1,9 @@
 ._*
 nbproject/*
+.nbproject/*
+.project
+.loadpath
+.DS_Store
 *~
 .rvmrc
 .rvmrc.*
